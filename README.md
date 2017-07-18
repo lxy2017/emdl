@@ -15,7 +15,7 @@ Embedded and mobile deep learning research notes
 
 1. [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878) [EMDL '17]
 
-1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google ]  [Github code](https://github.com/hollance/MobileNet-CoreML)
+1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google ]  [Github code](https://github.com/hollance/MobileNet-CoreML)   [Google’s MobileNets on the iPhone](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
 
 1. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) [WearSys '16]
 
