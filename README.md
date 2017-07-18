@@ -7,6 +7,7 @@ Embedded and mobile deep learning research notes
 ### Paper
 
 #### General
+1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf) [Xiangyu Zhang '17]   [This is a fast caffe implementation of ShuffleNet](https://github.com/farmingyard/ShuffleNet)
 
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php) [MobiSys '17]
 
