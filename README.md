@@ -86,8 +86,6 @@ Embedded and mobile deep learning research notes
 
 1. [Microsoft Embedded Learning Library](https://github.com/Microsoft/ELL)
 
-1. [Tencent ncnn Library](https://github.com/Tencent/ncnn)
-
 ### OpenCL, Vulkan, RenderScript
 
 1. [SaschaWillems/Vulkan: Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
