@@ -125,6 +125,7 @@ Embedded and mobile deep learning research notes
 ### Others
 
 1. [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
+1. [ModelZoo：Find deep learning models for your mobile platform](http://mlmodelzoo.com/)
 
 ## Hardware
 
