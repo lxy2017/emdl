@@ -7,15 +7,15 @@ Embedded and mobile deep learning research notes
 ### Paper
 
 #### General
+1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf) [Xiangyu Zhang '17]   [This is a fast caffe implementation of ShuffleNet](https://github.com/farmingyard/ShuffleNet) [ShuffleNet in PyTorch](https://github.com/jaxony/ShuffleNet)
 
-1. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) [arXiv '17, Megvii]
 1. [DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications](https://www.sigmobile.org/mobisys/2017/accepted.php) [MobiSys '17]
 
 1. [DeepEye: Resource Efficient Local Execution of Multiple Deep Vision Models using Wearable Commodity Hardware](http://fahim-kawsar.net/papers/Mathur.MobiSys2017-Camera.pdf) [MobiSys '17]
 
 1. [MobiRNN: Efficient Recurrent Neural Network Execution on Mobile GPU](https://arxiv.org/abs/1706.00878) [EMDL '17]
 
-1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google]
+1. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) [arXiv '17, Google ]  [Github code](https://github.com/hollance/MobileNet-CoreML)   [Google’s MobileNets on the iPhone](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)  [A caffe implementation of mobilenet's depthwise convolution layer](https://github.com/farmingyard/caffe-mobilenet)
 
 1. [DeepSense: A GPU-based deep convolutional neural network framework on commodity mobile devices](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4278&context=sis_research) [WearSys '16]
 
@@ -141,5 +141,3 @@ Embedded and mobile deep learning research notes
 
 1. [Adreno] [csarron/qcom_vendor_binaries: Common Proprietary Qualcomm Binaries](https://github.com/csarron/qcom_vendor_binaries)
 1. [Mali] [Fevax/vendor_samsung_hero2ltexx: Blobs from s7 Edge G935F](https://github.com/Fevax/vendor_samsung_hero2ltexx)
-
-
